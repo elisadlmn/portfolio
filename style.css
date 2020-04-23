@@ -226,12 +226,12 @@
 }
 
 .imgapropos {
-    background-image: url(apropos.PNG);
+    background-image: url(about.png);
   }
   
   @media (min-width: 50em) {
     .logo {
-      background-image: url(apropos2.PNG);
+      background-image: url(aboutbis.png);
     }
   }
 
