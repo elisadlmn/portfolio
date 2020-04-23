@@ -35,11 +35,7 @@
 }
 
 
-@media screen and (max-width: 375px) {
-  #h1  {
-    font-size: 60px;
-  }
-}
+
 
 #firstname {
     font-size:100px;
@@ -253,7 +249,7 @@
 
   @media screen and (max-width: 600px) {
     #h1  {
-      font-size: 80px;
+      font-size: 60px;
     }
   }
 
@@ -358,3 +354,6 @@
 }
 
 
+#imgabout {
+  width: 100%;
+}
